@@ -1,7 +1,7 @@
 # FreeCodeCamp Survey Form
-### Technologies: HTML, CSS
+### Created: Mar 9, 2020 || Status: Complete || Technologies: HTML, CSS
 
-**Description:** A survey form about FreeCodeCamp.
+**Description:** A survey form for FreeCodeCamp.
 
 *Modeled after [this](https://codepen.io/freeCodeCamp/full/VPaoNP) design.*
 
