@@ -1,5 +1,5 @@
 # FreeCodeCamp Survey Form
-### Technologies: HTML5, CSS3
+### Technologies: HTML, CSS
 
 **Description:** A survey form about FreeCodeCamp.
 
