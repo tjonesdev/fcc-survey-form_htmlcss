@@ -5,4 +5,4 @@
 
 *Modeled after [this](https://codepen.io/freeCodeCamp/full/VPaoNP) design.*
 
-View the design live on my [website](tjonesdev.github.io/fcc-survey-form_htmlcss) or [codepen](https://codepen.io/justkeepprogramming/pen/JjdMbMz).
+View the design live on [codepen](https://codepen.io/justkeepprogramming/pen/JjdMbMz).
